@@ -14,7 +14,7 @@ public class JokeController {
 
 	
 	public JokeController(JokeService jokeServce) {
-		super();
+	
 		this.jokeServce = jokeServce;
 	}
 	
